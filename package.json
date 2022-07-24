@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ice949/Portifolio-Page/issues"
   },
-  "homepage": "https://github.com/ice949/Portifolio-Page#readme"
+  "homepage": "https://github.com/ice949/Portifolio-Page#readme",
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  }
 }
